@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-# Coinbase Clone React Application
-=======
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fcRde9Vj)
 # Coinbase Clone - React & Tailwind CSS Assignment
->>>>>>> 0674d9b66718ea8adb9d99859fa8c40d27e2225f
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fcRde9Vj)
 
 This project is a modern, responsive web application clone of Coinbase, built using React and styled with Tailwind CSS. It focuses on delivering a sleek, dynamic user interface with smooth animations and engaging user flows for cryptocurrency trading and portfolio management simulations.
 
 ## View Live Demo
 
-**[Live Project on Vercel](https://coinbase-clone-brightak.vercel.app/)**
+**[Live Project on Vercel](https://stephnelly-crypto-app.vercel.app)**
 
 ## Key Features
 
@@ -24,7 +21,7 @@ This project is a modern, responsive web application clone of Coinbase, built us
 - **Vite:** Next-generation front-end tooling for fast build times and hot module replacement (HMR).
 - **Tailwind CSS:** Utility-first CSS framework for rapid and maintainable styling.
 - **Framer Motion:** Used to create complex and polished declarative animations.
-- **React Router (or standard routing):** Handles client-side navigation between pages.
+- **React Router:** Handles client-side navigation between pages.
 
 ## Getting Started
 
@@ -38,24 +35,23 @@ You need to have Node.js and npm installed on your machine.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/ak-bright/coinbase-clone.git
-   ```
+```bash
+git clone https://github.com/StephNellyyy/stephnelly-crypto-app.git
+```
 
 2. Navigate to the project directory:
 
-   ```bash
-   cd coinbase-clone
-   ```
+```bash
+cd stephnelly-crypto-app
+```
 
 3. Install all dependencies:
-   ```bash
-   npm install
-   ```
+
+```bash
+npm install
+```
 
 ### Running the Application
-
-To start the Vite development server:
 
 ```bash
 npm run dev
@@ -65,13 +61,9 @@ Your app will be available at `http://localhost:5173`.
 
 ## Building for Production
 
-To create an optimized production build:
-
 ```bash
 npm run build
 ```
-
-The compiled build files will be placed in the `dist/` directory, ready to be deployed to any static web hosting service (like Vercel, Netlify, or GitHub Pages).
 
 ## Project Structure
 
@@ -83,4 +75,4 @@ The compiled build files will be placed in the `dist/` directory, ready to be de
 
 ## Contact
 
-Created by [Bright Afatsawo]
+Created by [Stephanie Osani Payin Apenteng]
